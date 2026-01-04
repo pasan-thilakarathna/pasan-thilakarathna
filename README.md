@@ -45,9 +45,9 @@ Areas of interest:
 - Supported faculty with data processing, evaluation, and academic feedback
 
 ### 📁 Featured Repositories
+- Daily Data Practice
 - Data Analytics Portfolio
 - Excel, SQL & Python Projects
-- Daily Data Practice
 
 ### 📚 Continuous Learning
 - Salesforce Trailhead: https://www.salesforce.com/trailblazer/pasanthilakarathna
