@@ -1,6 +1,6 @@
 # Pasan Pilapitiya Thilakarathna
 
-CRM / Data Analyst with hands-on experience in Salesforce, Excel, SQL, and Python.  
+CRM Analyst with hands-on experience in Salesforce, Excel, SQL, and Python.  
 MSc in Computer Science with a focus on data analytics, machine learning, and research-driven problem solving.  
 Washington, DC
 
