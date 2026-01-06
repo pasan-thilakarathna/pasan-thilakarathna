@@ -34,9 +34,11 @@ Areas of interest:
 ### 💼 Experience Highlights
 **CRM Analyst | CODICE (Washington, DC)**  
 *Sep 2024 – Present*
-- Maintain Salesforce data integrity through validation, reconciliation, and quality checks
-- Build Salesforce and Excel reports/dashboards to deliver actionable business insights
-- Collaborate cross-functionally to track KPIs, analyze trends, and improve reporting workflows
+-  Maintain Salesforce data integrity through accurate input, updates, and quality checks.
+-  Build and customize Salesforce and Excel reports/dashboards to deliver actionable business insights to support strategic decisions.
+-  Perform data cleaning, validation, and reconciliation to ensure accuracy and reliability.
+-  Collaborate with sales, marketing, and operations teams to track KPIs, identify performance trends, and improve reporting processes.
+-  Streamline workflows and enhance CRM processes to support data-driven decision-making.
 
 **Graduate Research Assistant | Youngstown State University**  
 *Aug 2023 – Sep 2024*
