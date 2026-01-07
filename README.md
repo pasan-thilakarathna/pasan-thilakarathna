@@ -4,7 +4,7 @@ CRM Analyst with hands-on experience in Salesforce, Excel, SQL, and Python.
 MSc in Computer Science with a focus on data analytics, machine learning, and research-driven problem solving.  
 Washington, DC
 
-### 🔍 About
+### About
 I currently work as a CRM Analyst supporting data-driven decision-making through data quality management, reporting, and workflow optimization. My background combines CRM analytics, advanced data analysis, and research experience, allowing me to approach data problems with both business context and technical depth.
 
 Areas of interest:
@@ -13,7 +13,7 @@ Areas of interest:
 - Operational analytics
 - Translating data into actionable insights
 
-### 🧰 Technical Skills
+### Technical Skills
 **Languages**
 - Python, SQL, Java, C/C++, JavaScript (Node.js), Perl  
 - Familiar with Linux/Unix environments  
@@ -31,7 +31,7 @@ Areas of interest:
 - Workflow optimization & process improvement
 - Introductory machine learning & predictive analytics
 
-### 💼 Experience Highlights
+### Experience Highlights
 **CRM Analyst | CODICE (Washington, DC)**  
 *Sep 2024 – Present*
 -  Maintain Salesforce data integrity through accurate input, updates, and quality checks.
@@ -46,15 +46,15 @@ Areas of interest:
 - Co-authored a peer-reviewed research paper on genome-wide alternative splicing analysis.
 - Supported faculty with data processing, evaluation, and academic feedback.
 
-### 📁 Featured Repositories
+### Featured Repositories
 - Daily Data Practice
 - Data Analytics Portfolio
 - Excel, SQL & Python Projects
 
-### 📚 Continuous Learning
+### Continuous Learning
 - Salesforce Trailhead: https://www.salesforce.com/trailblazer/pasanthilakarathna
 - Google Data Analytics Certificate
 
-### 📫 Contact
+### Contact
 - LinkedIn: https://www.linkedin.com/in/pasan-thilakarathna/
 - Email: tmpasan98@gmail.com
