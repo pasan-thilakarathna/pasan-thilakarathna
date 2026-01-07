@@ -42,9 +42,9 @@ Areas of interest:
 
 **Graduate Research Assistant | Youngstown State University**  
 *Aug 2023 – Sep 2024*
-- Developed and modified Perl scripts to process biological research data
-- Co-authored a peer-reviewed research paper on genome-wide alternative splicing analysis
-- Supported faculty with data processing, evaluation, and academic feedback
+- Developed and modified Perl scripts to process biological research data.
+- Co-authored a peer-reviewed research paper on genome-wide alternative splicing analysis.
+- Supported faculty with data processing, evaluation, and academic feedback.
 
 ### 📁 Featured Repositories
 - Daily Data Practice
