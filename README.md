@@ -26,7 +26,10 @@ I am a results-driven CRM Analyst with hands-on experience in Salesforce, data q
 - CRM Reporting and Dashboard Development
 - Workflow Optimization and Process Improvement
 
-### Experience Highlights
+**Certifications**
+- Google Data Analytics Certificate (In-Progress)
+
+### Work Experience
 **CRM Analyst | CODICE (Washington, DC)**  
 *Sep 2024 – Present*
 -  Maintain Salesforce data integrity through accurate input, updates, and quality checks.
@@ -35,7 +38,7 @@ I am a results-driven CRM Analyst with hands-on experience in Salesforce, data q
 -  Collaborate with sales, marketing, and operations teams to track KPIs, identify performance trends, and improve reporting processes.
 -  Streamline workflows and enhance CRM processes to support data-driven decision-making.
 
-**Graduate Research Assistant | Youngstown State University**  
+**Graduate Research Assistant | Youngstown State University (Youngstown, OH)**  
 *Aug 2023 – Sep 2024*
 - Developed and modified Perl scripts to process biological research data.
 - Co-authored a peer-reviewed research paper on genome-wide alternative splicing analysis.
@@ -44,8 +47,6 @@ I am a results-driven CRM Analyst with hands-on experience in Salesforce, data q
 ### Featured Repositories
 - Daily Data Practice
 - Data Analytics Portfolio
-- Excel, SQL and Python Projects
+- Excel, SQL, and Python Projects
 
-### Certifications
-- Google Data Analytics Certificate (In-Progress)
 
