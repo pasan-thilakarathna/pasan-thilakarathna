@@ -1,6 +1,6 @@
 # Pasan Pilapitiya Thilakarathna
 
-CRM Analyst | MSc Computer Science | Data Analytics and Machine Learning Focus
+CRM Analyst | MSc Computer Science | Data Analytics and Machine Learning Focus <br>
 tmpasan98@gmail.com | Washington, DC
 
 ### About
