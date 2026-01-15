@@ -40,9 +40,10 @@ I am a results-driven CRM Analyst with hands-on experience in Salesforce, data q
 
 **Graduate Research Assistant | Youngstown State University (Youngstown, OH)**  
 *Aug 2023 – Sep 2024*
-- Developed and modified Perl scripts to process biological research data.
-- Co-authored a peer-reviewed research paper on genome-wide alternative splicing analysis.
-- Supported faculty with data processing, evaluation, and academic feedback.
+- ­	Developed and modified Perl scripts.
+- Supported faculty professors in research endeavors by processing gathered data using Perl scripts.
+- Contributed as a co-author to the published research article "Genome-Wide Identification and Analysis of Alternative Splicing in Aspergillus Niger”.
+- Supported faculty members by evaluating student assessments and examinations and delivering constructive feedback to enhance their academic performance.
 
 ### Featured Repositories
 - Daily Data Practice
