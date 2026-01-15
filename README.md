@@ -1,8 +1,7 @@
 # Pasan Pilapitiya Thilakarathna
 
-CRM Analyst with hands-on experience in Salesforce, Excel, SQL, and Python.  
-MSc in Computer Science with a focus on data analytics, machine learning, and research-driven problem solving.  
-Washington, DC
+CRM Analyst | MSc Computer Science | Data Analytics and Machine Learning Focus
+tmpasan98@gmail.com | Washington, DC
 
 ### About
 I am a results-driven CRM Analyst with hands-on experience in Salesforce, data quality management, and workflow optimization. I have a strong foundation in data cleaning, validation, and reconciliation, ensuring CRM data accuracy, consistency, and reliability across systems. I am passionate about data analytics, machine learning, and research-driven solutions, and motivated by opportunities to extract insights from complex datasets, streamline processes, and enable data-driven outcomes on impactful projects.
@@ -18,15 +17,14 @@ I am a results-driven CRM Analyst with hands-on experience in Salesforce, data q
 **Tools & Platforms**
 - Salesforce (CRM administration, reporting & dashboards)
 - Excel (advanced formulas, PivotTables, Power Query)
-- Jupyter Notebook / JupyterLab
+- Jupyter Notebook, JupyterLab
 - Power BI, Tableau
 
 **Core Strengths**
-- Data analysis & visualization
-- CRM reporting & dashboard development
-- Data quality management
-- Workflow optimization & process improvement
-- Introductory machine learning & predictive analytics
+- Data Analysis and Visualization
+- Data Quality and Validation
+- CRM Reporting and Dashboard Development
+- Workflow Optimization and Process Improvement
 
 ### Experience Highlights
 **CRM Analyst | CODICE (Washington, DC)**  
@@ -46,11 +44,8 @@ I am a results-driven CRM Analyst with hands-on experience in Salesforce, data q
 ### Featured Repositories
 - Daily Data Practice
 - Data Analytics Portfolio
-- Excel, SQL & Python Projects
+- Excel, SQL and Python Projects
 
 ### Certifications
 - Google Data Analytics Certificate (In-Progress)
 
-### Contact
-- LinkedIn: https://www.linkedin.com/in/pasan-thilakarathna/
-- Email: tmpasan98@gmail.com
