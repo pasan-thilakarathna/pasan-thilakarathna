@@ -5,13 +5,10 @@ MSc in Computer Science with a focus on data analytics, machine learning, and re
 Washington, DC
 
 ### About
-I currently work as a CRM Analyst supporting data-driven decision-making through data quality management, reporting, and workflow optimization. My background combines CRM analytics, advanced data analysis, and research experience, allowing me to approach data problems with both business context and technical depth.
+I am a results-driven CRM Analyst with hands-on experience in Salesforce, data quality management, and workflow optimization. I have a strong foundation in data cleaning, validation, and reconciliation, ensuring CRM data accuracy, consistency, and reliability across systems. I am passionate about data analytics, machine learning, and research-driven solutions, and motivated by opportunities to extract insights from complex datasets, streamline processes, and enable data-driven outcomes on impactful projects.
 
-Areas of interest:
-- Data cleaning & reconciliation
-- Reporting automation
-- Operational analytics
-- Translating data into actionable insights
+- LinkedIn: https://www.linkedin.com/in/pasan-thilakarathna/
+- Salesforce Trailhead: https://www.salesforce.com/trailblazer/pasan-thilakarathna
 
 ### Technical Skills
 **Languages**
@@ -51,9 +48,8 @@ Areas of interest:
 - Data Analytics Portfolio
 - Excel, SQL & Python Projects
 
-### Continuous Learning
-- Salesforce Trailhead: https://www.salesforce.com/trailblazer/pasanthilakarathna
-- Google Data Analytics Certificate
+### Certifications
+- Google Data Analytics Certificate (In-Progress)
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/pasan-thilakarathna/
