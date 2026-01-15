@@ -1,8 +1,5 @@
 # Pasan Pilapitiya Thilakarathna
 
-CRM Analyst | MSc Computer Science | Data Analytics and Machine Learning Focus <br>
-tmpasan98@gmail.com | Washington, DC
-
 ### About
 I am a results-driven CRM Analyst with hands-on experience in Salesforce, data quality management, and workflow optimization. I have a strong foundation in data cleaning, validation, and reconciliation, ensuring CRM data accuracy, consistency, and reliability across systems. I am passionate about data analytics, machine learning, and research-driven solutions, and motivated by opportunities to extract insights from complex datasets, streamline processes, and enable data-driven outcomes on impactful projects.
 
