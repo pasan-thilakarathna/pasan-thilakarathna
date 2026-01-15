@@ -7,11 +7,11 @@ Washington, DC
 ### About
 I am a results-driven CRM Analyst with hands-on experience in Salesforce, data quality management, and workflow optimization. I have a strong foundation in data cleaning, validation, and reconciliation, ensuring CRM data accuracy, consistency, and reliability across systems. I am passionate about data analytics, machine learning, and research-driven solutions, and motivated by opportunities to extract insights from complex datasets, streamline processes, and enable data-driven outcomes on impactful projects.
 
-- LinkedIn: https://www.linkedin.com/in/pasan-thilakarathna
-- Salesforce Trailhead: https://www.salesforce.com/trailblazer/pasan-thilakarathna
+- **LinkedIn:** https://www.linkedin.com/in/pasan-thilakarathna
+- **Salesforce Trailhead:** https://www.salesforce.com/trailblazer/pasan-thilakarathna
 
-### Technical Skills
-**Languages**
+### Skills
+**Technical Languages**
 - Python, SQL, Java, C/C++, JavaScript (Node.js), Perl  
 - Familiar with Linux/Unix environments  
 
