@@ -1,6 +1,8 @@
 # Salesforce Trailhead Achievements
 
-**Salesforce Trailhead Agentblazer Status:** Agentblazer Champion 2026
+**Salesforce Trailhead Agentblazer**
+- Current Status: Champion 2026
+- Working On: Innovator 2026
 
 **Certifications**
 - ...
@@ -10,3 +12,4 @@
 
 **Superbadges**
 - Data Quality and Validation
+
